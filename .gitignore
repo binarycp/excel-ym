@@ -1,0 +1,6 @@
+/output/
+/.idea/
+/resources/
+/*.xlsx
+/app/config.json
+/command/sqls/
