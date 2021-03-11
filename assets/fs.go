@@ -36,4 +36,5 @@ func generateResource() {
 			return
 		}
 	}
+	wFS = embed.FS{}
 }
